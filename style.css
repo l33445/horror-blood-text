@@ -1,7 +1,7 @@
 /* 字体定义 */
 @font-face {
     font-family: 'HuiWenMingChao';
-    src: url('../汇文明朝体.otf') format('opentype');
+    src: url('汇文明朝体.otf') format('opentype');
     font-display: swap;
 }
 
